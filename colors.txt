@@ -1,0 +1,8 @@
+colors
+-------------
+light-pink - #f1e3e5
+dusty-rose - #c99aa2
+light-cream - #e6dccd
+black
+white
+
